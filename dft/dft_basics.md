@@ -14,6 +14,9 @@ DEsign for Testability (DFT) is a set of design techniques added to a chip to ma
 - Introduces test clocks and test modes
 - Impacts STA in both funtional and test modes
 
+# Tool
+Tessant
+
 # DFT and STA
 - Separate constraints for funtional and test modes
 - Scan enable paths require special timing checks
