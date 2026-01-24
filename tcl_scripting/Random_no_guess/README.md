@@ -11,7 +11,7 @@ This code deomonstrates:
 - Control flow and conditional logic
 
 # To execute the program use
-- tclsh
+- tclsh random_game.tcl
 
 # Example
 Upon execution of the code, it will tell you to
