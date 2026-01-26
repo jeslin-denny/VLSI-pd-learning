@@ -1,18 +1,5 @@
-# Giving values for variable min and max:
-#set min 0
-#set max 20
-
-# Code to generate a random number.
-set randNum [expr {round($min + (rand() * ($max - $min)))}]
-
 # Created a procedure called "rand" to generate a random number and guessing the number.
 proc rand {} {
-#puts -nonewline "Guess a number from 1 to 20:"
-#	flush stdout
-#	set no [gets stdin]
-
-#set min 0
-#set max 20
 
 # Getting input from the user for $min and $max.
 	puts -nonewline "Set the lower limit:"
